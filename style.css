@@ -1,0 +1,25 @@
+audio{
+    width:100%;
+    height: 40px;
+}
+
+audio::-webkit-media-controls-enclosure{
+    background-color: #eaeaeafe;
+    border-radius: 0px;
+}
+
+p {
+    font-size: 16px;
+    color: #000;
+}
+
+audio::-webkit-media-controls-panel{
+    background-color: #eaeaeafe;
+}
+
+audio::-webkit-media-controls-current-time-display{
+    font-size: 11px;
+}
+audio::-webkit-media-controls-time-remaining-display{
+    font-size: 11px;;
+}
